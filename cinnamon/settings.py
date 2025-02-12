@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     'rest_framework',
 
     # Local apps
-    'apps.healthcheck',
+    'api.healthcheck',
 ]
 
 MIDDLEWARE = [
